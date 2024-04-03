@@ -1,3 +1,4 @@
+![logo](https://github.com/utsavkumar2004/utsavkumar2004/blob/main/poster.png)
 <h1 align="center">Hi 👋, I'm Utsav kumar</h1>
 <h3 align="center">A passionate MERN Stack developer & UI/UX designer</h3>
 
